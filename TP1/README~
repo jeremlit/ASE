@@ -1,0 +1,7 @@
+Comparaison adresse avec une fonction basique de boucle :
+on remarque que nous restons dans la même pile/contexte, en effet
+nous gardons les mêmes adresses à chaque fois.
+
+Comparaison adresse avec fonction appel récurcif :
+on remarque que les adresses sont dans l'ordre décroissant (comme dit en cours)
+et une nouvelle pile/context et crée pour chaque appel
